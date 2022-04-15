@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/ajjubhai/static/css/main.76110e25.chunk.css",
+    "main.js": "/ajjubhai/static/js/main.ee58aff5.chunk.js",
+    "main.js.map": "/ajjubhai/static/js/main.ee58aff5.chunk.js.map",
+    "runtime-main.js": "/ajjubhai/static/js/runtime-main.99983755.js",
+    "runtime-main.js.map": "/ajjubhai/static/js/runtime-main.99983755.js.map",
+    "static/js/2.de4f422b.chunk.js": "/ajjubhai/static/js/2.de4f422b.chunk.js",
+    "static/js/2.de4f422b.chunk.js.map": "/ajjubhai/static/js/2.de4f422b.chunk.js.map",
+    "index.html": "/ajjubhai/index.html",
+    "static/css/main.76110e25.chunk.css.map": "/ajjubhai/static/css/main.76110e25.chunk.css.map",
+    "static/js/2.de4f422b.chunk.js.LICENSE.txt": "/ajjubhai/static/js/2.de4f422b.chunk.js.LICENSE.txt",
+    "static/media/address.a01cb8cc.png": "/ajjubhai/static/media/address.a01cb8cc.png",
+    "static/media/award.a796a64f.png": "/ajjubhai/static/media/award.a796a64f.png",
+    "static/media/email.a49e0158.png": "/ajjubhai/static/media/email.a49e0158.png",
+    "static/media/me.4bd37dc4.jpeg": "/ajjubhai/static/media/me.4bd37dc4.jpeg",
+    "static/media/moon.3bea3d39.png": "/ajjubhai/static/media/moon.3bea3d39.png",
+    "static/media/phone.d90a6d23.png": "/ajjubhai/static/media/phone.d90a6d23.png",
+    "static/media/sun.f794832a.png": "/ajjubhai/static/media/sun.f794832a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.99983755.js",
+    "static/js/2.de4f422b.chunk.js",
+    "static/css/main.76110e25.chunk.css",
+    "static/js/main.ee58aff5.chunk.js"
+  ]
+}
